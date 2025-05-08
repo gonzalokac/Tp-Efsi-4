@@ -1,0 +1,13 @@
+.listado-citas {
+    flex: 1;
+    min-width: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .listado-citas h2 {
+    color: #34495e;
+    margin-bottom: 10px;
+  }
+  
